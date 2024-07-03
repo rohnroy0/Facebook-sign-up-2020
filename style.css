@@ -74,13 +74,13 @@ body
 }
 .mainbody
 {
-    height: 500px;
+    height: 550px;
     background: linear-gradient(white, #D3D8E8);
 }
 
 .left-sec-mainbody
 {
-    width: 60%;
+    width: 47%;
     float: left;
     padding-left: 134px;
     padding-top:30px
@@ -98,4 +98,130 @@ body
    color: #3b5998;; 
    font-size: 21px;
    font-weight: bold;
+}
+
+.para1-h1
+{
+    font-size: 43px;
+    font-weight: bold;
+}
+.parar2-p
+{
+    font-size: 23px;
+    top: 147px;
+    position: absolute;
+    font-weight: 100;
+}
+
+
+.form-part-mainbody
+{
+    padding-top: 20px;
+
+}
+.email-pass
+{
+    margin-top: 10px;
+    width: 500px;
+    height: 38px;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.surname
+{
+    margin-left:4px ;
+    height: 38px;
+    width: 245px;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.fname
+{
+    height: 38px;
+    width: 245px;
+    border-radius: 5px;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.para-dob
+{
+    padding-top: 20px;
+    font-size: 20px;
+    color: #676767;
+    font-weight: bold;
+}
+.drop
+{
+    padding-top: 4px;
+    width: 190px;
+    float: left;
+}
+.info
+{
+    padding-top: 4px;
+    float: left;
+}
+.gendertxt
+{
+    padding-top: 10px;
+    font-size: 20px;
+    color: #676767; 
+    font-weight: bold;
+}
+.radio-btns
+{
+    width: 300px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.mainbodybottompara
+{
+    font-size: 10px;
+    color: #676767;
+    text-decoration: none;
+}
+.termsandconditions2
+{
+    text-decoration: none;
+    color:rgb(9, 101, 239);
+}
+.sub-btn
+{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 600;
+    width: 195px;
+    height: 36px;
+    color: #fff;
+    cursor: pointer;
+    
+    
+
+
+}
+.sub-btn:hover
+{
+    background-color: #45a049;
+}
+.submitbtn
+{
+    width: 550px;
+}
+
+.terms
+{
+    font-size: 13px;
+}
+.para4
+{
+    width: 400px;
 }
