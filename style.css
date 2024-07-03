@@ -318,11 +318,13 @@ body
 .author
 {
     color:rgb(12, 4, 250);
+    margin-left: 5px;
 
 }
 .author:hover
 {
     color: rgb(12, 220, 36);
+    margin-left: 10px ;
 }
 #copyright
 {
