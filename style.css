@@ -71,3 +71,30 @@ body
 {
     padding-left: 10px;
 }
+.mainbody
+{
+    height: 500px;
+    background: linear-gradient(white, #D3D8E8);
+}
+
+.left-sec-mainbody
+{
+    width: 60%;
+    float: left;
+    padding-left: 134px;
+    padding-top:30px
+    
+}
+
+.right-sec-mainbody
+{
+    width: 40%;
+    float: left;
+}
+
+.quote
+{
+   color: #3b5998;; 
+   font-size: 21px;
+   font-weight: bold;
+}
