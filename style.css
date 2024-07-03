@@ -260,3 +260,75 @@ body
     padding-top:80px;
     font-size: 12px;
 }
+.decoration-none
+{
+    text-decoration: none;
+    margin-left: 5px;
+    color:rgb(16, 10, 201);
+}
+.language
+{
+    float: left;
+    
+}
+#plus-btn
+{
+    margin-left: 8px;
+    height: 19.6px;
+    width: 29.6px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    color: #676767;
+    
+}
+.line2
+{
+    margin-left: 45px;
+    width: 950px;
+
+}
+.footer-blw-line
+{
+    text-decoration: none;
+    margin-left: 15px;
+    color:rgb(16, 10, 201);
+}
+.adchoice
+{
+    height: 10px;
+    width: 12px;
+    float: right;
+    margin-top: 2px;
+    margin-right: 9px
+   
+    
+    
+}
+.second-line-footer
+{
+    margin-top: -10px;
+    width: 585px;
+    float: left;
+}
+.after-choice
+{
+    margin-top: -10px;
+    float: left;
+}
+.author
+{
+    color:rgb(12, 4, 250);
+
+}
+.author:hover
+{
+    color: rgb(12, 220, 36);
+}
+#copyright
+{
+    float: left;
+    margin-left: 45px;
+    padding-top: 20px;
+    font-size: x-small;
+}
+
