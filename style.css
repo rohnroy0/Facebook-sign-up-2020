@@ -173,6 +173,11 @@ body
     padding-top: 4px;
     width: 190px;
     float: left;
+    
+}
+.pointer
+{
+    cursor: pointer;
 }
 .info
 {
